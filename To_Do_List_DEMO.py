@@ -1,4 +1,3 @@
-print("This is a demo To-Do List file.")
 from tkinter import *
 from PIL import Image,ImageTk
 root = Tk()
